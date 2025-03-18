@@ -1,0 +1,5 @@
+run git command
+git status=it gives status of directory
+git init=initialises git repository
+git specify username
+git add-adds the file
